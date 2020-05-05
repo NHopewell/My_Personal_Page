@@ -277,6 +277,10 @@ p{
     color: #11999E;
 }
 
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
 .nav > li{
     margin-left:30px;
     margin-right:30px;
